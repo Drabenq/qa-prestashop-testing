@@ -1,5 +1,5 @@
 # TEST PLAN
-Proyecto: Testing página Ofertas PrestaShop
+Proyecto: Testing página opencart
 QA: Hernán Machado
 Fecha: 22/02/2026
 
@@ -7,7 +7,7 @@ Fecha: 22/02/2026
 
 ## 1. Objetivo
 
-Validar el correcto funcionamiento funcional y no funcional de la página de ofertas desarrollada en PrestaShop, asegurando que los usuarios puedan visualizar productos, navegar correctamente y realizar acciones sin errores.
+Validar el correcto funcionamiento funcional y no funcional de la página de ofertas desarrollada en opencart, asegurando que los usuarios puedan visualizar productos, navegar correctamente y realizar acciones sin errores.
 
 ---
 
