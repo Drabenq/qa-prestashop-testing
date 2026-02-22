@@ -47,6 +47,9 @@ El listado de productos se encuentra visible.
 - No se produce error 404.
 - La información del producto se muestra correctamente.
 
+Resultado: FAILED
+Observación: Bug reportado en Jira ID: PROJ-12
+
 ---
 
 ## TC-03 - Validar comportamiento responsive en dispositivo móvil
