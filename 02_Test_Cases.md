@@ -1,5 +1,5 @@
 # TEST CASES
-Proyecto: Testing Página Ofertas - PrestaShop  
+Proyecto: Testing Página Ofertas - opencart 
 QA: Hernán Machado  
 Fecha: 22/02/2026  
 
