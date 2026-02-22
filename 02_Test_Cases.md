@@ -48,7 +48,7 @@ El listado de productos se encuentra visible.
 - La información del producto se muestra correctamente.
 
 Resultado: FAILED
-Observación: Bug reportado en Jira ID: PROJ-12
+Observación: Bug reportado en Jira ID: SCRUM-7
 
 ---
 
